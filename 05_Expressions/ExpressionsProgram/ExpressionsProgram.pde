@@ -47,6 +47,7 @@ boolean close = false;
 println(exit && close); // false
 
 
+
 // Logical OR
 
 println(exit || close); //true
